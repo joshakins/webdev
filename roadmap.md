@@ -1,7 +1,7 @@
 # Fundamentals Roadmap 
 
 ## What is this?
-When I tell people they could be making 50-60k a year as junior web developer with less than a year of self-taught training, I'm often asked how to start.  I've been in this career for approximately 25 years. Having interviewed hundreds developers and trained dozens from junior level to mid/senior level, I know what works and what employers are looking for.  This is a rodmap of what I would recommend for someone starting off with no prior development knowledge.  
+When I tell people they could be making 50-60k a year as junior web developer with less than a year of self-taught training, I'm often asked how to start.  I've been in this career for approximately 25 years. Having interviewed hundreds of developers and trained dozens from junior level to mid/senior level, I know what works and what employers are looking for.  This is a rodmap of what I would recommend for someone starting off with no prior development knowledge.  
 
 ## First Steps
 You are going to learn HTML, CSS, and JavaScript first.  These are fundamental and necessary for all web developers to understand and how to use.  I've linked 3 courses that are free on YouTube from one of my favorite instructors.
