@@ -23,7 +23,7 @@ For now, avoid jQuery or any other JavaScript libraries and frameworks
 
 
 ## Next Steps
-There are two technology stacks that I'd recommend: [Microsoft .NET](https://en.wikipedia.org/wiki/.NET_Framework) or [React](https://en.wikipedia.org/wiki/React_(JavaScript_library).  Both are in extremely high demand and the pay is good. Take a look at the jobs available right now for both specialties: 
+There are two technology stacks that I'd recommend: [Microsoft .NET](https://en.wikipedia.org/wiki/.NET_Framework) or [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)).  Both are in extremely high demand and the pay is good. Take a look at the jobs available right now for both specialties: 
 * [React Remote Jobs](https://www.indeed.com/jobs?q=react&l=remote)
 * [.Net Remote Jobs](https://www.indeed.com/jobs?q=asp%20.net&l=remote)
 
